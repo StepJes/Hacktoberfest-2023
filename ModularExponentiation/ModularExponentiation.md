@@ -16,7 +16,7 @@ This line declares a method named PowMod that takes three long long int paramete
 ## long long int res = 1; : 
 This line declares a variable res and initializes it to 1. This variable will store the result of the modular exponentiation.
 
-## while (n > 0) {: 
+## while (n > 0) : 
 This line starts a while loop that continues as long as n is greater than 0. This loop implements the binary exponentiation algorithm.
 
 ## if (n & 1) :
