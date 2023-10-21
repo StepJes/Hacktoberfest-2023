@@ -25,7 +25,7 @@ C) Third
 D) Fourth
 
 State True or False.
-i) In spooling high speed device like a disk is interposed between running program and low-speed device
+i) In spooling high-speed device like a disk is interposed between running program and low-speed device
 in Input/output.
 ii) By using spooling for example instead of writing directly to a printer, outputs are written to the disk.
 A) i-True, ii-False
@@ -624,130 +624,133 @@ A) Directed tree
 B) Binary tree
 C) True, True
 
+
+
+
 --------------------------------------------
 SYSTEM ANALYSIS AND DESIGN
 --------------------------------------------
 
-Q. 1 …………………………. is an important factor of management information system.
+Q.1: …………………………. is an important factor of management information system.
 A) System
 B) Data
 C) Process
 D) All
 
-Q.2 Which are the following is / are the level(s) of documentation?
+Q.2: Which are the following is/are the level(s) of documentation?
 A) Documentation for management
 B) Documentation for user
 C) Documentation for data processing department
 D) All of the above
 
-Q.3 ………………………….. level supply information to strategic tier for the use of top management.
+Q.3: ………………………….. level supply information to strategic tier for the use of top management.
 A) Operational
 B) Environmental
 C) Competitive
 D) Tactical
 
-Q.4 In a DFD external entities are represented by a
+Q.4: In a DFD external entities are represented by a
 A) Rectangle
 B) Ellipse
-C) Diamond shaped box
+C) Diamond-shaped box
 D) Circle
 
-Q.5 …………… can be defined as data that has been processed into a form that is meaningful to the
-recipient and is of real or perceive value in current or prospective decisions.
+Q.5: …………… can be defined as data that has been processed into a form that is meaningful to the
+recipient and is of real or perceived value in current or prospective decisions.
 A) System
 B) Information
 C) Technology
 D) Service
 
-Q.6 Use the new system as the same time as the old system to compare the results. This is known as …
+Q.6: Use the new system at the same time as the old system to compare the results. This is known as …
 A) Procedure Writing
 B) Simultaneous processing
 C) Parallel Operation
 D) File Conversion
 
-Q.7 Decision making model was proposed by ………………….
+Q.7: Decision-making model was proposed by ………………….
 A) Harry Goode
 B) Herbert A Simon
 C) Recon Michal
 D) None of this
 
-Q.8 A data flow can
+Q.8: A data flow can
 A) Only emanate from an external entity
 B) Only terminate in an external entity
 C) May emanate and terminate in an external entity
 D) May either emanate or terminate in an external entity but not both.
 
-Q. 9 …………… can be defined as most recent and perhaps the most comprehensive technique for
+Q. 9: …………… can be defined as most recent and perhaps the most comprehensive technique for
 solving computer problems.
 A) System Analysis
 B) System Data
 C) System Procedure
 D) System Record
 
-Q.10 SDLC stands for
+Q.10: SDLC stands for
 A) System Development Life Cycle
 B) Structure Design Life Cycle
 C) System Design Life Cycle
 D) Structure development Life Cycle
 
-Q.11 ……………….. includes review of the existing procedures and information flow.
+Q.11: ……………….. includes review of the existing procedures and information flow.
 A) Feasibility Study
 B) Feasibility report
 C) System Design
 D) System analysis
 
-Q.12 A rectangle in a DFD represents
+Q.12: A rectangle in a DFD represents
 A) a process
 B) a data store
 C) an external entity
 D) an input unit
 
-Q.13 …………….. refers to the collection of information pertinent to systems Project.
+Q.13: …………….. refers to the collection of information pertinent to systems Project.
 A) Data transfer
 B) Data gathering
 C) Data Embedding
 D) Data Request
 
-Q.14 ………………….. means coordinated effort, to communicate the information of the system written
+Q.14: ………………….. means coordinated effort, to communicate the information of the system written
 form.
 A) System documentation
 B) Resource required
 C) Development schedule
 D) User Document
 
-Q.15 MDP stands for
+Q.15: MDP stands for
 A) Master Development Plan
 B) Master Design Program
 C) Mandatory Database Program
 D) Master Database Plan
 
-Q.16 External Entities may be a
+Q.16: External Entities may be a
 A) Source of input data only
 B) Source of input data or destination of results
 C) Destination of results only
 D) Repository of data
 
-Q.17 …………………. is a group of interested components working together towards a common goal by
+Q.17: …………………. is a group of interested components working together towards a common goal by
 accepting inputs and producing outputs in an organized transformation process.
 A) System
 B) Network
 C) Team
 D) System Unit
 
-Q.18 To create vehicle of information to provide evidence in the development process and to monitor
+Q.18: To create vehicle of information to provide evidence in the development process and to monitor
 the process. This is one of the objectives of
 A) Analysis
 B) Design
 C) Development
 D) Documentation
 
-Q.19 A …………. System is no more than idea
+Q.19: A …………. System is no more than idea
 A) Conceptual
 B) Logical
 C) Physical
 D) All of the above
 
-Q.20 By an external entity we mean a
+Q.20: By an external entity we mean a
 A) Unit outside the system being designed which can be controlled by an analyst.
 B) Unit outside the system whose behavior is independent of the system being designed
 C) A unit external to the system being designed
@@ -755,23 +758,23 @@ D) A unit which is not part of a DFD
 
 Answers:
 
-A) System
-D) All of the above
-D) Tactical
-A) Rectangle
-B) Information
-C) Parallel Operation
-B) Herbert A Simon
-C) May emanate and ………entity
-A) System Analysis
-A) System Development Life Cycle
-A) Feasibility Study
-C) an external entity
-B) Data gathering
-A) System documentation
-A) Master Development Plan
-B) Source of …… destination of results
-A) System
-D) Documentation
-A) Conceptual
-C) A unit external to the system being designed
+1.   A) System
+2.   D) All of the above
+3.   D) Tactical
+4.   A) Rectangle
+5.   B) Information
+6.   C) Parallel Operation
+7.   B) Herbert A Simon
+8.   C) May emanate and ………entity
+9.   A) System Analysis
+10.  A) System Development Life Cycle
+11.  A) Feasibility Study
+12.  C) an external entity
+13.  B) Data gathering
+14.  A) System documentation
+15.  A) Master Development Plan
+16.  B) Source of …… destination of results
+17.  A) System
+18.  D) Documentation
+19.  A) Conceptual
+20.  C) A unit external to the system being designed
